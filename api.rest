@@ -31,7 +31,6 @@ Content-Type: application/json
 ###
 
 ### DELETE /data/:id
-# ลบข้อมูลตาม id
 DELETE http://localhost:3000/data/3
 
 ###
